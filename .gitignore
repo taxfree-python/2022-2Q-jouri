@@ -1,8 +1,10 @@
 submit
 taxfree
-*.png
 report*
 test*
 py/report.py
 temp*
 .DS*
+sample*
+!sample_1.png
+!sample_6.png
