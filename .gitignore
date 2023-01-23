@@ -1,0 +1,8 @@
+submit
+taxfree
+*.png
+report*
+test*
+py/report.py
+temp*
+.DS*
